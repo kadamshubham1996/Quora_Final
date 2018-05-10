@@ -1,0 +1,8 @@
+.notifications {
+    border: 1px solid #CCC;
+    border-radius : 3px;
+    padding: 10px;
+    background-color: aliceblue;
+    height: 250px;
+    overflow: scroll;
+}
